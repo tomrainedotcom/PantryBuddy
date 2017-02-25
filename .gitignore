@@ -1,4 +1,4 @@
 node_modules/
-dist/*
+src/dist/*
 # keep the dist folder
-!dist/.gitkeep
+!src/dist/.gitkeep
